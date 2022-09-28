@@ -1,0 +1,15 @@
+C:\Users\annak\source\repos\kirillova_praktik2\bin\Debug\net6.0\kirillova_praktik2.exe
+C:\Users\annak\source\repos\kirillova_praktik2\bin\Debug\net6.0\kirillova_praktik2.deps.json
+C:\Users\annak\source\repos\kirillova_praktik2\bin\Debug\net6.0\kirillova_praktik2.runtimeconfig.json
+C:\Users\annak\source\repos\kirillova_praktik2\bin\Debug\net6.0\kirillova_praktik2.dll
+C:\Users\annak\source\repos\kirillova_praktik2\bin\Debug\net6.0\kirillova_praktik2.pdb
+C:\Users\annak\source\repos\kirillova_praktik2\obj\Debug\net6.0\kirillova_praktik2.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\kirillova_praktik2\obj\Debug\net6.0\kirillova_praktik2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annak\source\repos\kirillova_praktik2\obj\Debug\net6.0\kirillova_praktik2.AssemblyInfoInputs.cache
+C:\Users\annak\source\repos\kirillova_praktik2\obj\Debug\net6.0\kirillova_praktik2.AssemblyInfo.cs
+C:\Users\annak\source\repos\kirillova_praktik2\obj\Debug\net6.0\kirillova_praktik2.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\kirillova_praktik2\obj\Debug\net6.0\kirillova_praktik2.dll
+C:\Users\annak\source\repos\kirillova_praktik2\obj\Debug\net6.0\refint\kirillova_praktik2.dll
+C:\Users\annak\source\repos\kirillova_praktik2\obj\Debug\net6.0\kirillova_praktik2.pdb
+C:\Users\annak\source\repos\kirillova_praktik2\obj\Debug\net6.0\kirillova_praktik2.genruntimeconfig.cache
+C:\Users\annak\source\repos\kirillova_praktik2\obj\Debug\net6.0\ref\kirillova_praktik2.dll
